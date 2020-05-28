@@ -12,7 +12,7 @@ Integrante de proyecto:
 
 Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
 
-Características:
+## Características:
 - Registro y autenticación de usuarios
 
 - Filtrado de artículos básico y avanzado
@@ -24,21 +24,21 @@ Características:
 - Carro de compras (cantidad de artículos y calculo del total)
 
 
-**Empezando**
+## Empezando
 
-**Requisitos**
+## Requisitos
 
 - Node.js
 
 - NPM
 
-**Instalación del paquete**
+## Instalación del paquete
 
 Ejecute en el terminal de Windows el siguiente comando:
 
 ```npm install```
 
-**Inicie la aplicación React**
+## Inicie la aplicación React
 
 Ejecute en el directorio del proyecto el siguiente comando:
 
