@@ -1,4 +1,4 @@
-#####Integracion Continua - Politécnico Grancolombiano - 2020
+####  Integracion Continua - Politécnico Grancolombiano - 2020
 
 Módulo:
 
@@ -28,9 +28,9 @@ Características:
 
 **Requisitos**
 
--Node.js
+- Node.js
 
--NPM
+- NPM
 
 **Instalación del paquete**
 
