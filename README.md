@@ -36,12 +36,12 @@ Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redu
 
 Ejecute en el terminal de Windows el siguiente comando:
 
-```npm install```
+### ```npm install```
 
 ## Inicie la aplicación React
 
 Ejecute en el directorio del proyecto el siguiente comando:
 
-```npm start```
+### ```npm start```
 
 La aplicación se iniciará automáticamente en su navegador en http://localhost:3000
