@@ -10,7 +10,7 @@ Integrante de proyecto:
 
 ## Proyecto:
 
-Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
+Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas, de un catalogo de ventas de hardware de piezas de computadores.
 
 ## Características:
 - Registro y autenticación de usuarios
