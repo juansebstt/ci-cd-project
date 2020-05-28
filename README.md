@@ -1,30 +1,31 @@
-**Integracion Continua - Politécnico Grancolombiano - 2020**
+#####**Integracion Continua - Politécnico Grancolombiano - 2020**#####
 
 Módulo:
 
-*Integración continua
+-Integración continua
 
 Integrante de proyecto:
 
-*Juan Sebastian Ibarra
+-Juan Sebastian Ibarra
 
 **Proyecto:**
 
 Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
 
 Características:
-*Registro y autenticación de usuarios
-*Filtrado de artículos básico y avanzado
-*Catálogo de artículos y características
-*Modificación de las cantidades en tiempo real
-*Carro de compras (cantidad de artículos y calculo del total)
+-Registro y autenticación de usuarios
+-Filtrado de artículos básico y avanzado
+-Catálogo de artículos y características
+-Modificación de las cantidades en tiempo real
+-Carro de compras (cantidad de artículos y calculo del total)
 
 **Empezando**
 
 **Requisitos**
 
-Node.js
-NPM
+-Node.js
+
+-NPM
 
 **Instalación del paquete**
 
