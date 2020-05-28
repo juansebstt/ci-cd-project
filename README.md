@@ -1,4 +1,4 @@
-####  Integracion Continua - Politécnico Grancolombiano - 2020
+# Integracion Continua - Politécnico Grancolombiano - 2020
 
 Módulo:
 
@@ -8,7 +8,7 @@ Integrante de proyecto:
 
 - Juan Sebastian Ibarra
 
-**Proyecto:**
+## Proyecto:
 
 Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas.
 
