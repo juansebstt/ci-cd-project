@@ -10,7 +10,7 @@ Integrante de proyecto:
 
 ## Proyecto:
 
-Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas, de un catalogo de ventas de hardware de piezas de computadores.
+Prototipo de aplicación web e-commerce. Muestra cómo podemos usar ReactJS y Firebase para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas, de un catalogo de ventas de hardware de piezas de computadores y equipo electronico/tecnologico.
 
 ## Características:
 - Registro y autenticación de usuarios
