@@ -19,5 +19,3 @@ RUN npm install react-router-dom
 
 EXPOSE 8080
 CMD [ "npm", "start" ]
-
-COPY . .
