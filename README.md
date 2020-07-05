@@ -1,36 +1,44 @@
-Integracion Continua - Politécnico Grancolombiano - 2020
-Módulo:
+# #
+# Politécnico Grancolombiano
+</h1>
+</p>
+<br>
+Módulo: 
+<ul>
+<li>Integración continua</li>
+</ul>
 
-Integración continua
-Integrante de proyecto:
+Integrantes: 
+<ul>
+<li>Juan Sebastian Ibarra</li>
+</ul>
 
-Juan Sebastian Ibarra
 Proyecto:
-Prototipo de aplicación web e-commerce. Muestra cómo podemos usar ReactJS y Firebase para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas, de un catalogo de ventas de hardware de piezas de computadores y equipo electronico/tecnologico llamado: Hardware e-Shop.
 
-Características:
-Registro y autenticación de usuarios
+Prototipo de aplicación web e-commerce. Muestra cómo podemos usar React y Redux para crear una experiencia de usuario amigable con actualizaciones visuales instantáneas. Se desarrolla bajo el enfoque de la Integración Continua usando diferentes herramientas, tales como, <a href = "https://travis-ci.org/">Travis CI </a> como servidor CI para la automatización de tareas (compilación, creación de imagenes y despliegue a Docker Hub (Docker Delivery)) y <a href = "https://www.docker.com/">Docker Engine v19.03.8 </a> como motor de contenedorización para la segmentación de los diferentes ambientes del ciclo de vida del producto.
 
-Filtrado de artículos básico y avanzado
+## Características
 
-Catálogo de artículos y características
+<ul>
+  <li>Registro y autenticación de usuarios</li>
+  <li>Catálogo de artículos y características</li>
+  <li>Filtrado de artículos básico y avanzado</li>
+  <li>Modificación de las cantidades en tiempo real</li>
+  <li>Carro de compras (cantidad de artículos y calculo del total)</li>
+</ul>
 
-Modificación de las cantidades en tiempo real
+# Empezando
+## Requisitos
 
-Carro de compras (cantidad de artículos y calculo del total)
+* Node.js
+* NPM
 
-Empezando
-Requisitos
-Node.js
-
-NPM
-
-Instalación del paquete
+### Instalación del paquete
 Ejecute en el terminal de Windows el siguiente comando:
+### `npm install`
 
-npm install
-Inicie la aplicación React
-Ejecute en el directorio del proyecto el siguiente comando:
+### Inicie la aplicación React
+Ejecute en el directorio del proyecto el siguiente comando: 
+### `npm start`
 
-npm start
-La aplicación se iniciará automáticamente en su navegador en http://localhost:3000/
+La aplicación se iniciará automáticamente en su navegador en http://localhost:3000
