@@ -16,7 +16,7 @@ install:
 script:
   - npm build
   # build docker images
-  - docker build -t hardware-eshop:1.0 .
+  - docker build -t hardware-eshop .
 
 after_success:
   - docker tag hardware-eshop $DOCKER_USER/hardware-eshop:$TRAVIS_BUILD_NUMBER
